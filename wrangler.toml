@@ -1,3 +1,3 @@
 name = "librety"
-main = "worker.js"  # 替换为您的实际入口文件路径，例如 "src/index.ts" 或 "worker.js"
+main = "server.mjs"  # 替换为您的实际入口文件路径，例如 "src/index.ts" 或 "worker.js"
 compatibility_date = "2025-07-12"
